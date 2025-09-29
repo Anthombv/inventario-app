@@ -1,0 +1,16 @@
+# Node (Angular)
+frontend-prueba/node_modules
+frontend-prueba/dist
+
+# .NET
+**/bin/
+**/obj/
+
+# IDEs
+.vscode/
+.idea/
+
+# Otros
+*.user
+*.suo
+*.log
